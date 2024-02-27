@@ -1,6 +1,4 @@
 # Exp-2---Weather-Data-Set
-Data Analysis using Python Lab Experiments --->
-#Weather_Data_Set
 
 
 Q.1)  Find all the unique 'Wind Speed' values in the data.
